@@ -82,7 +82,7 @@ namespace EmailTest.Models
                 FilePath = OPF.FileName;
                 RaisePropertyChanged("FilePath");
             }
-            catch (Exception e)
+            catch (Exception)
             {
 
             }

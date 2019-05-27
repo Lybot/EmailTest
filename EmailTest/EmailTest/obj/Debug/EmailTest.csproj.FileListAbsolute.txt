@@ -30,3 +30,36 @@ C:\Users\pashk\OneDrive\4 курс\Системное программирова
 C:\Users\pashk\OneDrive\4 курс\Системное программирование\EmailTest\EmailTest\bin\Debug\EmailTest.application
 C:\Users\pashk\OneDrive\4 курс\Системное программирование\EmailTest\EmailTest\obj\Debug\EmailTest.exe.manifest
 C:\Users\pashk\OneDrive\4 курс\Системное программирование\EmailTest\EmailTest\obj\Debug\EmailTest.application
+C:\Users\pashk\Documents\GitHub\EmailTest\EmailTest\EmailTest\bin\Debug\EmailTest.exe.config
+C:\Users\pashk\Documents\GitHub\EmailTest\EmailTest\EmailTest\bin\Debug\EmailTest.exe.manifest
+C:\Users\pashk\Documents\GitHub\EmailTest\EmailTest\EmailTest\bin\Debug\EmailTest.application
+C:\Users\pashk\Documents\GitHub\EmailTest\EmailTest\EmailTest\bin\Debug\EmailTest.exe
+C:\Users\pashk\Documents\GitHub\EmailTest\EmailTest\EmailTest\bin\Debug\EmailTest.pdb
+C:\Users\pashk\Documents\GitHub\EmailTest\EmailTest\EmailTest\bin\Debug\en-US\EmailTest.resources.dll
+C:\Users\pashk\Documents\GitHub\EmailTest\EmailTest\EmailTest\bin\Debug\Prism.dll
+C:\Users\pashk\Documents\GitHub\EmailTest\EmailTest\EmailTest\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\pashk\Documents\GitHub\EmailTest\EmailTest\EmailTest\bin\Debug\Prism.pdb
+C:\Users\pashk\Documents\GitHub\EmailTest\EmailTest\EmailTest\bin\Debug\Prism.xml
+C:\Users\pashk\Documents\GitHub\EmailTest\EmailTest\EmailTest\obj\Debug\MainWindow.g.cs
+C:\Users\pashk\Documents\GitHub\EmailTest\EmailTest\EmailTest\obj\Debug\App.g.cs
+C:\Users\pashk\Documents\GitHub\EmailTest\EmailTest\EmailTest\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\pashk\Documents\GitHub\EmailTest\EmailTest\EmailTest\obj\Debug\EmailTest_MarkupCompile.cache
+C:\Users\pashk\Documents\GitHub\EmailTest\EmailTest\EmailTest\obj\Debug\EmailTest_MarkupCompile.lref
+C:\Users\pashk\Documents\GitHub\EmailTest\EmailTest\EmailTest\obj\Debug\MainWindow.baml
+C:\Users\pashk\Documents\GitHub\EmailTest\EmailTest\EmailTest\obj\Debug\EmailTest.g.resources
+C:\Users\pashk\Documents\GitHub\EmailTest\EmailTest\EmailTest\obj\Debug\EmailTest.Properties.Resources.resources
+C:\Users\pashk\Documents\GitHub\EmailTest\EmailTest\EmailTest\obj\Debug\EmailTest.Properties.Resources.en-US.resources
+C:\Users\pashk\Documents\GitHub\EmailTest\EmailTest\EmailTest\obj\Debug\EmailTest.csproj.GenerateResource.cache
+C:\Users\pashk\Documents\GitHub\EmailTest\EmailTest\EmailTest\obj\Debug\EmailTest.csproj.CoreCompileInputs.cache
+C:\Users\pashk\Documents\GitHub\EmailTest\EmailTest\EmailTest\obj\Debug\en-US\EmailTest.resources.dll
+C:\Users\pashk\Documents\GitHub\EmailTest\EmailTest\EmailTest\obj\Debug\EmailTest.TrustInfo.xml
+C:\Users\pashk\Documents\GitHub\EmailTest\EmailTest\EmailTest\obj\Debug\EmailTest.exe.manifest
+C:\Users\pashk\Documents\GitHub\EmailTest\EmailTest\EmailTest\obj\Debug\EmailTest.application
+C:\Users\pashk\Documents\GitHub\EmailTest\EmailTest\EmailTest\obj\Debug\EmailTest.csproj.CopyComplete
+C:\Users\pashk\Documents\GitHub\EmailTest\EmailTest\EmailTest\obj\Debug\EmailTest.exe
+C:\Users\pashk\Documents\GitHub\EmailTest\EmailTest\EmailTest\obj\Debug\EmailTest.pdb
+C:\Users\pashk\Documents\GitHub\EmailTest\EmailTest\EmailTest\bin\Debug\CommonServiceLocator.dll
+C:\Users\pashk\Documents\GitHub\EmailTest\EmailTest\EmailTest\bin\Debug\Prism.Wpf.dll
+C:\Users\pashk\Documents\GitHub\EmailTest\EmailTest\EmailTest\bin\Debug\Prism.Wpf.pdb
+C:\Users\pashk\Documents\GitHub\EmailTest\EmailTest\EmailTest\bin\Debug\Prism.Wpf.xml
+C:\Users\pashk\Documents\GitHub\EmailTest\EmailTest\EmailTest\obj\Debug\EmailTest.csprojAssemblyReference.cache
