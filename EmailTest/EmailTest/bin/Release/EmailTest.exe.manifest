@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="EmailTest.exe" version="1.0.0.4" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="EmailTest.exe" version="1.0.0.9" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="EmailTest" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="EmailTest" version="1.0.0.0" publicKeyToken="39B868ADCD8105E9" language="neutral" processorArchitecture="msil" />
     <commandLine file="EmailTest.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -54,26 +54,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EmailTest.exe" size="20960">
-      <assemblyIdentity name="EmailTest" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EmailTest.exe" size="21472">
+      <assemblyIdentity name="EmailTest" version="1.0.0.0" publicKeyToken="39B868ADCD8105E9" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>0mvlM80u95Ne6zzBvi/5Cb15Tlw/uFX0HsrUiNjPurQ=</dsig:DigestValue>
+        <dsig:DigestValue>ZpmIo1JrA5BYunPfhbsbT2KQVZokoNgE21k7GVYEM0Y=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="en-US\EmailTest.resources.dll" size="4096">
-      <assemblyIdentity name="EmailTest.resources" version="1.0.0.0" language="en-US" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="en-US\EmailTest.resources.dll" size="4608">
+      <assemblyIdentity name="EmailTest.resources" version="1.0.0.0" publicKeyToken="39B868ADCD8105E9" language="en-US" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Gkm/IRJJlTo4SXuuxE2vP5XO66E73zUMd6fmKYwjzb0=</dsig:DigestValue>
+        <dsig:DigestValue>9gvk+Bkujj/QQCM+O+o8sImn7vIcj6Hw4rwGIshg2pQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -113,13 +113,13 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="EmailTest.exe.config" size="186">
+  <file name="EmailTest.exe.config" size="303">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>1NgAxCSw4ibTXzWVy7D6Rw60Qih4Dn37KvGhG5Ora/s=</dsig:DigestValue>
+      <dsig:DigestValue>bLQm3S4x8NEJsc6UK1+GQZRVEJZUX258CpdIMnDHVb8=</dsig:DigestValue>
     </hash>
   </file>
   <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
